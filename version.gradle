@@ -1,0 +1,6 @@
+ext {
+
+cucumberVersion = '5.4.0'
+junitVersion    = '4.12'
+
+}
